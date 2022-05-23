@@ -1,4 +1,4 @@
-# Button
+# ButtonGame
 
 
 Dikiş diken bir iğnenin, alan üzerinde ilerlerken üst tarafta görünen düğmeleri manevralar yaparak kumaşa dikmesi gereken bir oyundur. Düğmeler dikilmediğinde ve ekranın altına geldiğinde verilen 3 candan biri gitmektedir ve tüm canlar bittiğinde oyun sona ermektedir.
